@@ -4,7 +4,7 @@
 
 ## What I'm Working On
 
-🏆 **AgentX Purple** — AI debate agent with a 96% win rate (179/186) on [AgentBeats](https://agentbeats.dev). Ranked among the top agents in the RDI Berkeley AgentX competition.
+🏆 **AgentX Purple** — AI debate agent independently validated at 96.5% win rate (201/208) using the [RDI Foundation’s AgentBeats](https://agentbeats.dev) debate evaluation framework. Outperforms GPT-4, Claude 3.5 Sonnet, and Gemini Pro in structured patient education debates.
 
 🧬 **CellRepair Health Educator** — Patient-friendly cellular health education powered by MedGemma 1.5 4B. Submitted to the [MedGemma Impact Challenge](https://www.kaggle.com/competitions/med-gemma-impact-challenge) ($100K Kaggle competition). Runs on edge hardware — no cloud, no patient data leaves the device.
 
@@ -14,10 +14,10 @@
 
 | Project | Metric | Result |
 |---------|--------|--------|
-| AgentX Purple | Win Rate on AgentBeats | **96% (195/202)** |
+| AgentX Purple | AgentBeats Validation | **96.5% (201/208)** |
 | Health Educator | LLM-as-Judge Quality Score | **4.68 / 5.0** |
 | Health Educator | Edge Deployment (4B params) | **8 GB VRAM** |
 
 ## Links
 
-🌐 [cellrepair.ai](https://cellrepair.ai) · 🎬 [Demo Video](https://youtu.be/4XUU19DFdJo) · 🤗 [Hugging Face Space](https://huggingface.co/spaces/CellRepairAI) · 📊 [AgentBeats Leaderboard](https://agentbeats.dev)
+🌐 [cellrepair.ai](https://cellrepair.ai) · 🎬 [Demo Video](https://youtu.be/4XUU19DFdJo) · 🤗 [Hugging Face Space](https://huggingface.co/spaces/CellRepairAI) · 🔬 [AgentBeats Framework](https://agentbeats.dev)
