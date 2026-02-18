@@ -14,7 +14,7 @@
 
 | Project | Metric | Result |
 |---------|--------|--------|
-| AgentX Purple | Win Rate on AgentBeats | **96% (179/186)** |
+| AgentX Purple | Win Rate on AgentBeats | **96% (195/202)** |
 | Health Educator | LLM-as-Judge Quality Score | **4.68 / 5.0** |
 | Health Educator | Edge Deployment (4B params) | **8 GB VRAM** |
 
