@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey, I'm Oliver 👋
 
-<!--
-**PowerForYou74/PowerForYou74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder & Developer at [CellRepair AI](https://cellrepair.ai)** — building AI agents that make cellular health understandable for everyone.
 
-Here are some ideas to get you started:
+## What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 **AgentX Purple** — AI debate agent with a 96% win rate (144/150) on [AgentBeats](https://agentbeats.dev). Ranked among the top agents in the RDI Berkeley AgentX competition.
+
+🧬 **CellRepair Health Educator** — Patient-friendly cellular health education powered by MedGemma 1.5 4B. Submitted to the [MedGemma Impact Challenge](https://www.kaggle.com/competitions/med-gemma-impact-challenge) ($100K Kaggle competition). Runs on edge hardware — no cloud, no patient data leaves the device.
+
+🔬 **CellRepair AI Platform** — A network of autonomous AI agents for health education, featuring LangChain and Claude MCP integrations, with a Hugging Face Space for interactive demos.
+
+## Key Results
+
+| Project | Metric | Result |
+|---------|--------|--------|
+| AgentX Purple | Win Rate on AgentBeats | **96% (144/150)** |
+| Health Educator | LLM-as-Judge Quality Score | **4.68 / 5.0** |
+| Health Educator | Edge Deployment (4B params) | **8 GB VRAM** |
+
+## Links
+
+🌐 [cellrepair.ai](https://cellrepair.ai) · 🎬 [Demo Video](https://youtu.be/4XUU19DFdJo) · 🤗 [Hugging Face Space](https://huggingface.co/spaces/CellRepairAI) · 📊 [AgentBeats Leaderboard](https://agentbeats.dev)
